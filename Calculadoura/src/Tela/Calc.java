@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author 17500059647
+ * @author Rayan
  */
 public class Calc extends javax.swing.JFrame {
 
