@@ -7,7 +7,7 @@ package Operações;
 
 /**
  *
- * @author 17500059647
+ * @author Rayan
  */
 public class Operacoes {
 
